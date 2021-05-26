@@ -1,0 +1,64 @@
+C:\Documents and Settings\k1_5_31\Local Settings\Application Data\Temporary Projects\AstroApp\bin\Debug\AstroApp.exe
+C:\Documents and Settings\k1_5_31\Local Settings\Application Data\Temporary Projects\AstroApp\bin\Debug\AstroApp.pdb
+C:\Documents and Settings\k1_5_31\Local Settings\Application Data\Temporary Projects\AstroApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\k1_5_31\Local Settings\Application Data\Temporary Projects\AstroApp\obj\x86\Debug\AstroApp.Form1.resources
+C:\Documents and Settings\k1_5_31\Local Settings\Application Data\Temporary Projects\AstroApp\obj\x86\Debug\AstroApp.Form2.resources
+C:\Documents and Settings\k1_5_31\Local Settings\Application Data\Temporary Projects\AstroApp\obj\x86\Debug\AstroApp.Properties.Resources.resources
+C:\Documents and Settings\k1_5_31\Local Settings\Application Data\Temporary Projects\AstroApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\k1_5_31\Local Settings\Application Data\Temporary Projects\AstroApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\k1_5_31\Local Settings\Application Data\Temporary Projects\AstroApp\obj\x86\Debug\AstroApp.exe
+C:\Documents and Settings\k1_5_31\Local Settings\Application Data\Temporary Projects\AstroApp\obj\x86\Debug\AstroApp.pdb
+C:\Documents and Settings\k1_5_31\Local Settings\Application Data\Temporary Projects\AstroApp\obj\x86\Debug\AstroApp.Form3.resources
+C:\Documents and Settings\k1_5_31\my documents\visual studio 2010\Projects\AstroApp\AstroApp\obj\x86\Debug\AstroApp.exe
+C:\Documents and Settings\k1_5_31\my documents\visual studio 2010\Projects\AstroApp\AstroApp\obj\x86\Debug\AstroApp.pdb
+C:\Documents and Settings\k1_5_31\my documents\visual studio 2010\Projects\AstroApp\AstroApp\bin\Debug\AstroApp.exe
+C:\Documents and Settings\k1_5_31\my documents\visual studio 2010\Projects\AstroApp\AstroApp\bin\Debug\AstroApp.pdb
+C:\Documents and Settings\k1_5_31\my documents\visual studio 2010\Projects\AstroApp\AstroApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\k1_5_31\my documents\visual studio 2010\Projects\AstroApp\AstroApp\obj\x86\Debug\AstroApp.Form1.resources
+C:\Documents and Settings\k1_5_31\my documents\visual studio 2010\Projects\AstroApp\AstroApp\obj\x86\Debug\AstroApp.Form2.resources
+C:\Documents and Settings\k1_5_31\my documents\visual studio 2010\Projects\AstroApp\AstroApp\obj\x86\Debug\AstroApp.Form3.resources
+C:\Documents and Settings\k1_5_31\my documents\visual studio 2010\Projects\AstroApp\AstroApp\obj\x86\Debug\AstroApp.Properties.Resources.resources
+C:\Documents and Settings\k1_5_31\my documents\visual studio 2010\Projects\AstroApp\AstroApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\k1_5_31\my documents\visual studio 2010\Projects\AstroApp\AstroApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\k1_5_31\my documents\visual studio 2010\Projects\AstroApp\AstroApp\obj\x86\Debug\AstroApp.Form4.resources
+M:\AstroApp\AstroApp\obj\x86\Debug\AstroApp.exe
+M:\AstroApp\AstroApp\obj\x86\Debug\AstroApp.pdb
+M:\AstroApp\AstroApp\bin\Debug\AstroApp.exe
+M:\AstroApp\AstroApp\bin\Debug\AstroApp.pdb
+M:\AstroApp\AstroApp\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\AstroApp\AstroApp\obj\x86\Debug\AstroApp.Form1.resources
+M:\AstroApp\AstroApp\obj\x86\Debug\AstroApp.Form2.resources
+M:\AstroApp\AstroApp\obj\x86\Debug\AstroApp.Form3.resources
+M:\AstroApp\AstroApp\obj\x86\Debug\AstroApp.Form4.resources
+M:\AstroApp\AstroApp\obj\x86\Debug\AstroApp.Properties.Resources.resources
+M:\AstroApp\AstroApp\obj\x86\Debug\GenerateResource.read.1.tlog
+M:\AstroApp\AstroApp\obj\x86\Debug\GenerateResource.write.1.tlog
+M:\AstroApp\AstroApp\obj\x86\Debug\Atestat.Form2.resources
+C:\Users\NikiBari\Desktop\AstroApp\AstroApp\obj\x86\Debug\AstroApp.exe
+C:\Users\NikiBari\Desktop\AstroApp\AstroApp\obj\x86\Debug\AstroApp.Form1.resources
+C:\Users\NikiBari\Desktop\AstroApp\AstroApp\obj\x86\Debug\AstroApp.Form2.resources
+C:\Users\NikiBari\Desktop\AstroApp\AstroApp\obj\x86\Debug\AstroApp.Form3.resources
+C:\Users\NikiBari\Desktop\AstroApp\AstroApp\obj\x86\Debug\AstroApp.Form4.resources
+C:\Users\NikiBari\Desktop\AstroApp\AstroApp\obj\x86\Debug\AstroApp.Properties.Resources.resources
+C:\Users\NikiBari\Desktop\AstroApp\AstroApp\obj\x86\Debug\AstroApp.csproj.GenerateResource.Cache
+C:\Users\NikiBari\Desktop\AstroApp\AstroApp\bin\Debug\AstroApp.exe
+C:\Users\NikiBari\Desktop\AstroApp\AstroApp\bin\Debug\AstroApp.pdb
+C:\Users\NikiBari\Desktop\AstroApp\AstroApp\obj\x86\Debug\AstroApp.pdb
+C:\Users\NikiBari\Desktop\AstroApp\AstroApp\obj\x86\Debug\AstroApp.Form5.resources
+C:\Users\k1_5_31\Desktop\AstroApp\AstroApp\obj\x86\Debug\AstroApp.exe
+C:\Users\k1_5_31\Desktop\AstroApp\AstroApp\obj\x86\Debug\AstroApp.pdb
+C:\Users\k1_5_31\Desktop\AstroApp\AstroApp\bin\Debug\AstroApp.exe
+C:\Users\k1_5_31\Desktop\AstroApp\AstroApp\bin\Debug\AstroApp.pdb
+C:\Users\k1_5_31\Desktop\AstroApp\AstroApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\k1_5_31\Desktop\AstroApp\AstroApp\obj\x86\Debug\AstroApp.Form1.resources
+C:\Users\k1_5_31\Desktop\AstroApp\AstroApp\obj\x86\Debug\AstroApp.Form2.resources
+C:\Users\k1_5_31\Desktop\AstroApp\AstroApp\obj\x86\Debug\AstroApp.Form3.resources
+C:\Users\k1_5_31\Desktop\AstroApp\AstroApp\obj\x86\Debug\AstroApp.Form4.resources
+C:\Users\k1_5_31\Desktop\AstroApp\AstroApp\obj\x86\Debug\AstroApp.Form5.resources
+C:\Users\k1_5_31\Desktop\AstroApp\AstroApp\obj\x86\Debug\AstroApp.Properties.Resources.resources
+C:\Users\k1_5_31\Desktop\AstroApp\AstroApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\k1_5_31\Desktop\AstroApp\AstroApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\k1_5_31\Desktop\AstroApp\AstroApp\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\k1_5_31\Desktop\AstroApp\AstroApp\obj\x86\Debug\AstroApp.csproj.ResolveComReference.cache
+C:\Users\NikiBari\Desktop\AstroApp\AstroApp\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\NikiBari\Desktop\AstroApp\AstroApp\obj\x86\Debug\AstroApp.csproj.ResolveComReference.cache
